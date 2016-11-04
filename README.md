@@ -22,7 +22,7 @@ Assume we have a parent element and a child element, both are block level.
 }
 ```
 
-[demos/zero-absolute-position.html](demos/zero-absolute-position.html)
+[demos/zero-absolute-position.html](./demos/zero-absolute-position.html)
 
 
 ### 2. Table Cell Display

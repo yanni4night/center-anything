@@ -1,0 +1,31 @@
+{
+  "name": "center-anything",
+  "version": "1.0.0",
+  "description": "Css tricks for centering anything",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "gulp"
+  },
+  "pre-commit": "prepublish",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanni4night/center-anything.git"
+  },
+  "keywords": [
+    "center-anything",
+    "css"
+  ],
+  "author": "yanni4night@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanni4night/center-anything/issues"
+  },
+  "homepage": "https://github.com/yanni4night/center-anything#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-wrapper": "^1.0.0",
+    "pre-commit": "^1.1.3"
+  }
+}
