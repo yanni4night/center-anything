@@ -1,0 +1,15 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.parent {
+    margin: 10px 0;
+    height: 200px;
+    border: 1px solid #ccc;
+    width: 300px;;
+}
+.child {
+    width: 200px;
+    height: 100px;
+    background: cyan;
+}
